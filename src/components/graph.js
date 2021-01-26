@@ -2,8 +2,8 @@ import React from "react";
 import { Multiselect } from 'multiselect-react-dropdown';
 import ApolloClient from 'apollo-boost';
 import { ApolloProvider } from 'react-apollo';
-import '../../App.css';
-import  Metrics from '../../Metrics.js';
+import '../App.css';
+import  Metrics from '../Metrics.js';
 
 
 
